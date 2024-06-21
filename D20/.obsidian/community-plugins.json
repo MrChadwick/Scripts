@@ -1,4 +1,18 @@
 [
   "heatmap-calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "tag-wrangler",
+  "omnisearch",
+  "editing-toolbar",
+  "obsidian-projects",
+  "notion-like-tables",
+  "obsidian-full-calendar"
 ]

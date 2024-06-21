@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55fae12bf29781c5",
+        "id": "674bc9ff6d6f249a",
         "type": "tabs",
         "children": [
           {
-            "id": "3252cbe4ea51bce9",
+            "id": "0b14036db7c67d42",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3a2f5ba3ce7cff28",
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "14bf4ed9467baaca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,11 +143,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-projects:Open projects": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "556e08896a4aad79",
+  "active": "0b14036db7c67d42",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled",
     "Notes"
   ]
 }

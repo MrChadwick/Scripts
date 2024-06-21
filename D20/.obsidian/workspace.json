@@ -11,20 +11,8 @@
             "id": "5fc02c6d34b4d985",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Kanban.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +154,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4095a8a402cb140c",
+  "active": "5fc02c6d34b4d985",
   "lastOpenFiles": [
-    "Untitled.loom",
     "Untitled Kanban.md",
+    "Untitled.loom",
     "Untitled.md",
     "Untitled",
     "Notes"

@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "674bc9ff6d6f249a",
+        "id": "a28ad2114ad6d95b",
         "type": "tabs",
         "children": [
           {
-            "id": "0b14036db7c67d42",
+            "id": "5fc02c6d34b4d985",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled Kanban.md"
+              }
             }
           },
           {
@@ -130,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,8 +170,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0b14036db7c67d42",
+  "active": "4095a8a402cb140c",
   "lastOpenFiles": [
+    "Untitled.loom",
+    "Untitled Kanban.md",
     "Untitled.md",
     "Untitled",
     "Notes"
